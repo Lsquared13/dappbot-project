@@ -1,5 +1,6 @@
 # Project: DappBot
 [DappBot App](https://dapp.bot/)
+
 A serverless application for generating frontends for Ethereum-based dapps
 * Allows users to generate a Dapp hosted as a static site on aws infrastructure in 5 minutes from a contract ABI
 * Uses a completely serverless architecture to allow effortless scaling and cost control
