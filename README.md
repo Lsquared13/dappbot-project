@@ -2,9 +2,9 @@
 [DappBot App](https://dapp.bot/)
 
 A serverless application for generating frontends for Ethereum-based dapps
-* Allows users to generate a Dapp hosted as a static site on aws infrastructure in 5 minutes from a contract ABI
+* Allows users to generate a dapp hosted as a static site on AWS infrastructure in 5 minutes from a contract ABI
 * Uses a completely serverless architecture to allow effortless scaling and cost control
-* Uses a [React App](https://reactjs.org/) to display a Dapp frontend on [DappHub](https://hub.dapp.bot/) based on a user provided [Solidity ABI](https://solidity.readthedocs.io/en/develop/abi-spec.html), contract address, and selected blockchain network
+* Uses a [React App](https://reactjs.org/) to display a dapp frontend on [DappHub](https://hub.dapp.bot/) based on a user provided [Solidity ABI](https://solidity.readthedocs.io/en/develop/abi-spec.html), contract address, and selected blockchain network
 * Integrates with [Metamask](https://metamask.io/) and [Vault Guardian](https://github.com/Lsquared13/guardian-project) for submitting write transactions to the blockchain
 
 ## Architecture
